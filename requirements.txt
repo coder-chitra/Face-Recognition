@@ -1,0 +1,6 @@
+opencv-python
+numpy
+face-recognition
+pandas
+scikit-image
+scipy
